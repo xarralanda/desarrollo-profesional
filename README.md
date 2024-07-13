@@ -8,8 +8,8 @@
 ## HOME LAB
 
 ### VPN en Proxmox con WireGuard.
-* [Tutorial somebooks.es] [proxmox-wrieguard-somebooks]
-* [Tutorial Manel Rodero] [proxmox-wrieguard-manelrodero]
+* [Tutorial somebooks.es][proxmox-wrieguard-somebooks]
+* [Tutorial Manel Rodero][proxmox-wrieguard-manelrodero]
 
 
 
